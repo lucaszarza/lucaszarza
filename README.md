@@ -1,13 +1,13 @@
 
 <h1 align="center">Lucas Zarza</h1>
 
-Hi, I'm Lucas Zarza, a passionate Front-End web developer from Brazil.
-
 <p align="center"> 
-	<a href="https://https://www.linkedin.com/in/lucaszarza/"> 
+	<a href="https://www.linkedin.com/in/lucaszarza/"> 
 		  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaszarza/" alt="Linkedin badge" />
 	</a>
 </p>
+
+Hi, I'm Lucas Zarza, a passionate Front-End web developer from Brazil.
 
 - 🔭 I’m currently working on a Software House as an Intern with the VueJs Framework 
 - 🌱 I’m currently learning Vue, React, Tests, jQuery and Blade(Laravel)
