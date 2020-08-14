@@ -21,10 +21,17 @@ Hi, I'm Lucas Zarza, a passionate Front-End web developer from Brazil.
 - 🌱 I’m currently learning Vue, React, Tests, jQuery and Blade(Laravel)
 
 <p align="center"> 
-	<a href="https://www.linkedin.com/in/lucaszarza/>" 
+	<a href="https://https://www.linkedin.com/in/lucaszarza/"> 
 		  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaszarza/" alt="Linkedin badge" />
 	</a>
 </p>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucaszarza&hide=prs" alt="Stats" />
