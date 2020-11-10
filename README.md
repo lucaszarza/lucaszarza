@@ -10,7 +10,7 @@
 Hi, I'm Lucas Zarza, a passionate Front-End web developer from Brazil.
 
 - 🔭 I’m currently working on a Software House as an Intern with the VueJs Framework 
-- 🌱 I’m currently learning Vue, React, Tests, jQuery and Blade(Laravel)
+- 🌱 I’m currently learning Vue, React, Tests and Blade(Laravel)
 
 **Languages and Tools:**  
 
