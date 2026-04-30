@@ -1,39 +1,40 @@
 <h1 align="center">Lucas Zarza</h1>
 
 <p align="center">
-  Project Finance & M&A · Energia Renovável · Brasil
+  Head of Technology · Finance & Technology · Brazil
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucaszarza/">
-    <img src="https://img.shields.io/badge/LinkedIn-lucaszarza-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-lucaszarza-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucas@paratyenergia.com.br">
-    <img src="https://img.shields.io/badge/Email-lucas@paratyenergia.com.br-gray?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-lucas%40paratyenergia.com.br-gray?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-Trabalho com **estruturação financeira e M&A** de projetos de energia renovável na [Paraty Energia](https://www.paratyenergia.com.br), com foco em **Pequenas Centrais Hidrelétricas (PCHs)**.
+I work at the intersection of **technology and finance** — building tools, automating processes, and supporting investment decisions in the energy sector.
 
-No dia a dia, combino modelagem financeira, análise de viabilidade e automação para tornar processos mais eficientes.
+**What I focus on:**
 
-### Atualmente
+- Financial modeling and investment analysis
+- Full-stack development and systems architecture
+- Process automation and technology leadership
 
-- Modelagem financeira de projetos de geração de energia (PCH, solar)
-- Estruturação de operações de M&A no setor elétrico brasileiro
-- Automação de processos com Python e PowerShell
+---
 
-### Ferramentas que uso
+**Stack**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaszarza&show_icons=true&hide=prs&hide_rank=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaszarza&show_icons=true&hide=prs&hide_rank=true&theme=default&hide_border=true" />
 </p>
