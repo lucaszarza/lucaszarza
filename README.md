@@ -1,42 +1,39 @@
 <h1 align="center">Lucas Zarza</h1>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/lucaszarza/"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaszarza/" alt="LinkedIn badge" />
+<p align="center">
+  Project Finance & M&A · Energia Renovável · Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaszarza/">
+    <img src="https://img.shields.io/badge/LinkedIn-lucaszarza-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lucas@paratyenergia.com.br">
+    <img src="https://img.shields.io/badge/Email-lucas@paratyenergia.com.br-gray?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center"> 
-  <em>Passionate FullStack Software Engineer from Brazil</em>
-</p>
-
 ---
 
-## 🚀 About Me
+Trabalho com **estruturação financeira e M&A** de projetos de energia renovável na [Paraty Energia](https://www.paratyenergia.com.br), com foco em **Pequenas Centrais Hidrelétricas (PCHs)**.
 
-Hello! I'm **Lucas Zarza**, a FullStack Software Engineer with a passion for building scalable and efficient applications. I specialize in both front-end and back-end development and strive to create seamless user experiences.
+No dia a dia, combino modelagem financeira, análise de viabilidade e automação para tornar processos mais eficientes.
 
-## 🔧 Languages and Tools
+### Atualmente
 
-I work with a variety of technologies to build modern web applications. Some of the tools I use:
+- Modelagem financeira de projetos de geração de energia (PCH, solar)
+- Estruturação de operações de M&A no setor elétrico brasileiro
+- Automação de processos com Python e PowerShell
 
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> **JavaScript**
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> **React**
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> **Vue.js**
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> **Node.js**
-- <code><img height="20" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"></code> **Python**
+### Ferramentas que uso
 
-## 📈 GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaszarza&hide=prs" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszarza&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaszarza&show_icons=true&hide=prs&hide_rank=true&theme=default" alt="GitHub Stats" />
 </p>
-
----
-
-## 📬 Contact
-
-Feel free to reach out to me through:
-
-- [LinkedIn](https://www.linkedin.com/in/lucaszarza/)
